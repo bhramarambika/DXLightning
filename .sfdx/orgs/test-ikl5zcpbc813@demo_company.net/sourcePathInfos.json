@@ -1,0 +1,206 @@
+[
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513515164190,
+            "changeTime": 1513515164190,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513515164191,
+            "changeTime": 1513515164191,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513522394287,
+            "changeTime": 1513522394287,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754"
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513517745972,
+            "changeTime": 1513517745972,
+            "contentHash": "bb5e9a367276d9ed486a41f39ea4853de1aaf7df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513517745988,
+            "changeTime": 1513517745988,
+            "contentHash": "6e719e5c800108fbaffbf2066f493664a2ba8f28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+            "isDirectory": false,
+            "size": 1137,
+            "modifiedTime": 1513519538129,
+            "changeTime": 1513519538130,
+            "contentHash": "5b094496a0b7420299e8c41e757a3b43c9f6095c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1513517745981,
+            "changeTime": 1513517745981,
+            "contentHash": "fa159825b5b8b5419d88cfe3f6f6994fe55651e7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1513517745987,
+            "changeTime": 1513517745987,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+            "isDirectory": false,
+            "size": 137,
+            "modifiedTime": 1513519593989,
+            "changeTime": 1513519593989,
+            "contentHash": "531f7b2dd9a9bb1f829dc7b0ec3e34538fed61f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1513517745985,
+            "changeTime": 1513517745985,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1513517745989,
+            "changeTime": 1513517745989,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning",
+        {
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513517544013,
+            "changeTime": 1513517544013,
+            "contentHash": "10292a3671a3adfd5edf7d0ecea8dceab01b7021",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6715,
+            "modifiedTime": 1513522394292,
+            "changeTime": 1513522394292,
+            "contentHash": "eb72d528790a198d9a6534f8824266a1a138fac8"
+        }
+    ],
+    [
+        "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Bhramarambika\\dxlightning\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513522394290,
+            "changeTime": 1513522394290,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd"
+        }
+    ]
+]
